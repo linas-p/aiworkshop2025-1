@@ -6,7 +6,7 @@ Learn about LLMs, AI-powered programming tools, APIs, and hands-on AI projects i
 * Part II (12:30-14:00): AI APIs & hands-on projects
 * Part III (14:00-15:00): Networking
 
-The workshop [slides](https://drive.google.com/drive/folders/1BXz8T-wy04llJLToiiyM6e_TquBBBxuh?usp=drive_link) to follow.
+The workshop [slides](https://drive.google.com/drive/folders/1BXz8T-wy04llJLToiiyM6e_TquBBBxuh?usp=sharing) to follow.
 
 ## Preparation
 * Follow the instructions to [setup](./tasks/0.prep.md) your environment for the workshop.
