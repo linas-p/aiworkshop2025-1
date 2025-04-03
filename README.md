@@ -1,4 +1,4 @@
-# AI Workshop 2025-02-22 (led by Linas Petkevičius)
+# AI Workshop 
 
 Learn about LLMs, AI-powered programming tools, APIs, and hands-on AI projects in a structured session:
 
